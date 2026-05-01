@@ -1,2 +1,0 @@
-# housing price prediction
-
